@@ -11,7 +11,7 @@
 
 ## Requirements for reading sensor data:
 - correctly connected sensors
-- python packages:
+- python packages: sqlite3; bluepy
 
 ## Others:
 - You should modify the switchwifi_* files with your own wifi information.
