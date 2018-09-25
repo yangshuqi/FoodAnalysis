@@ -1,7 +1,7 @@
 # Requirements
 ## Google Vision Kit:
 - python packages: scipy; numpy; sklearn; skimage; matplotlib; requests; PIL 
-- some official packages provided by Vision Kit should be places in their default folder
+- some official packages provided by Vision Kit should be placed in their default folder
 
 ## [optional] Remote Server
 - MATLAB is used for the GUI program on server
